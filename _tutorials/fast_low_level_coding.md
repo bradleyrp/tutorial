@@ -2,8 +2,7 @@
 layout: post
 title: Why should you use a low-level language?
 slug: low-level-languages
-description: An exploration of C.
-author: Ryan
+description: An exploration of C
 ---
 
 Starting [here](https://www.ibm.com/developerworks/community/blogs/jfp/entry/A_Comparison_Of_C_Julia_Python_Numba_Cython_Scipy_and_BLAS_on_LU_Factorization?lang=en) ...

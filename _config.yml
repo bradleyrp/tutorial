@@ -2,8 +2,8 @@ title: HPC Tutorials
 email: marcc-help@marcc.jhu.edu
 description: >-
   Basic HPC tutorials are under development at this site.
-baseurl: "/"
-url: "" #! not required for github pages?
+baseurl: ""
+url: "/tutorials" #! not required for github pages?
 github_username:  bradleyrp
 markdown: kramdown
 theme: minima
